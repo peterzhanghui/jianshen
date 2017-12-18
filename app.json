@@ -1,12 +1,29 @@
 {
   "pages":[
     "pages/index/index",
+    "pages/user/index",
     "pages/logs/logs"
   ],
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
+    "navigationBarTitleText": "私人健身",
     "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "健身计划"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "健身日历"
+      },
+      {
+        "pagePath": "pages/user/index",
+        "text": "个人中心"
+      }
+    ]
   }
 }

@@ -13,21 +13,21 @@
   "tabBar": {
     "list": [
       {
-        "iconPath": "assets/img/计划_4.png",
-        "selectedIconPath": "assets/img/计划.png",
+        "iconPath": "assets/img/计划.png",
+        "selectedIconPath": "assets/img/计划2.png",
         "pagePath": "pages/index/index",
         "text": "健身计划"
 
       },
       {
-        "iconPath": "assets/img/日历_1.png",
-        "selectedIconPath": "assets/img/日历.png",
+        "iconPath": "assets/img/日历.png",
+        "selectedIconPath": "assets/img/日历2.png",
         "pagePath": "pages/logs/logs",
         "text": "健身日历"
       },
       {
-        "iconPath": "assets/img/account.png",
-        "selectedIconPath": "assets/img/account2.png",
+        "iconPath": "assets/img/个人中心3.png",
+        "selectedIconPath": "assets/img/个人中心2.png",
         "pagePath": "pages/user/index",
         "text": "个人中心"
       }
